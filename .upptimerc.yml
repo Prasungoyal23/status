@@ -4,7 +4,7 @@ repo: status # The name of this repository
 
 sites:
   - name: Google
-    url: https://googel.in
+    url: https://googel.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
