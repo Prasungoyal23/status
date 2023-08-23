@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/googel.com.ico",
     "slug": "google",
     "status": "down",
-    "uptime": "98.95%",
+    "uptime": "98.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "61.61%",
-    "uptimeYear": "96.80%",
+    "uptimeMonth": "59.04%",
+    "uptimeYear": "96.59%",
     "time": 82,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 82,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2023-08-23": 116,
+      "2023-08-23": 1244,
       "2023-08-22": 1440,
       "2023-08-21": 1440,
       "2023-08-20": 1440,
@@ -60,12 +60,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 336,
-    "timeDay": 200,
-    "timeWeek": 261,
-    "timeMonth": 336,
-    "timeYear": 336,
-    "dailyMinutesDown": {}
+    "time": 335,
+    "timeDay": 271,
+    "timeWeek": 265,
+    "timeMonth": 335,
+    "timeYear": 335,
+    "dailyMinutesDown": {
+      "2023-08-23": 0
+    }
   },
   {
     "name": "Test Broken Site",
