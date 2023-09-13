@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2023-09-13": 1001,
+      "2023-09-13": 1012,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
@@ -77,17 +77,17 @@
     "slug": "hacker-news",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 337,
-    "timeDay": 187,
-    "timeWeek": 332,
-    "timeMonth": 312,
-    "timeYear": 337,
+    "time": 338,
+    "timeDay": 266,
+    "timeWeek": 342,
+    "timeMonth": 314,
+    "timeYear": 338,
     "dailyMinutesDown": {
-      "2023-09-13": 0
+      "2023-09-13": 12
     }
   },
   {
