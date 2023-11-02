@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2023-11-02": 1032,
+      "2023-11-02": 1047,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
@@ -109,17 +109,17 @@
     "slug": "wikipedia",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 196,
-    "timeWeek": 277,
-    "timeMonth": 229,
-    "timeYear": 233,
+    "time": 231,
+    "timeDay": 147,
+    "timeWeek": 254,
+    "timeMonth": 225,
+    "timeYear": 231,
     "dailyMinutesDown": {
-      "2023-11-02": 0
+      "2023-11-02": 16
     }
   },
   {
